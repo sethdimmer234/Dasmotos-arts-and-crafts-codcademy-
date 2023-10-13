@@ -1,0 +1,71 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    padding: 61px 12px;
+
+}
+
+.row{
+    width: 100%;
+    max-width: 1280px;
+    margin:0 auto;
+}
+
+.homepage__wrapper{
+    position: relative;
+
+}
+
+
+
+h1{
+font-family: Helvetica;
+font-size: 100px;
+font-weight: bold;
+color: khaki;
+text-align: center;
+}
+
+.background__image{
+    background-image: url(./assets/pattern.jpeg);
+    background-position: 60%;
+    background-size: 500%;
+    background-repeat: no-repeat;
+    width: 100%;
+    position: absolute;
+    inset: 0px;
+    top: 0px;
+    right: 0px;
+    left: 0px;
+    bottom: 0px;
+    z-index: -1;
+    filter: grayscale(50%);
+    height: 100px;
+    margin: 0 auto;
+    height: 100%;
+}
+
+.brushes{
+    font-family: Helvetica;
+font-size: 32px;
+font-weight: bold;
+color: white;
+background-color: mediumspringgreen;
+margin-top: 80px;
+}
+
+.hack-pic{
+    margin-top: 20px;
+}
+
+
+
+
+
+
+
+
