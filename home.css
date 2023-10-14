@@ -50,7 +50,7 @@ text-align: center;
 }
 
 .brushes{
-    font-family: Helvetica;
+font-family: Helvetica;
 font-size: 32px;
 font-weight: bold;
 color: white;
@@ -60,6 +60,28 @@ margin-top: 80px;
 
 .hack-pic{
     margin-top: 20px;
+}
+
+.starting{
+    color: blue;
+    font-family: Helvetica;
+    font-weight: bold;
+}
+
+.frames{
+    background-color: lightcoral;
+    margin-top: 30px;
+    color: white;
+}
+
+.frame-pic{
+    margin-top: 30px;
+}
+
+.paint{
+    background-color: skyblue;
+    color: white;
+    margin-top: 30px;
 }
 
 
